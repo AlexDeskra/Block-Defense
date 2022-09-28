@@ -1,2 +1,3 @@
-Versiunea de Unity pentru proiectul din fisierul "Proiect Unity" este 2020.3.30f1.
-Tot codul se gaseste in fisierul "Assets/Scripts" din "Proiect Unity".
+Unity Version: 2020.3.30f1.
+All code is found in "Assets/Scripts"
+
