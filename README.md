@@ -12,4 +12,7 @@ The user can add waves made up entirely at the user's discression by creating Wa
 ![Add waves to level](https://user-images.githubusercontent.com/42253300/196179944-e1606423-4507-46e8-83e3-44b1f1f6d7e2.gif)
 The user can add tower types to the level by creating a Towers ScriptableObject in Resources/ScriptableObjects/Towers/"Level x"/ , where "Level x" is the name of the level. The "Level x" folder should be created.
 ![Add towers to level](https://user-images.githubusercontent.com/42253300/196180268-cb675181-9fc5-4b1f-a179-5d90af311491.gif)
-
+### Creating a new enemy
+The user can create a new enemy to add into waves by going into the Resources/ScriptableObjects/Enemies/ folder and creating a new EnemyScriptableObject. AFter all the information is added the enemy is ready to be used.
+![Add new enemy type](https://user-images.githubusercontent.com/42253300/196192100-2d048830-6f98-4593-be43-8d2d90f3976d.gif)
+#### All ScriptableObjects, which conist in the towers, waves and enemies of the game, can be easily modified by just selecting them and modifing the values in the inspector view.
